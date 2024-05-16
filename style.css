@@ -83,6 +83,13 @@ nav li{
     margin: 5px;
 }
 
+.terraria-image{
+    float: left;
+    width: 100;
+    height: 100;
+    margin: 5px;
+}
+
 .footer {
     background-color: #FCBA04;
     color: #250001;
